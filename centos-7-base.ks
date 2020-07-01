@@ -3,7 +3,6 @@ install
 eula --agreed
 lang en_US.UTF-8
 timezone --utc UTC
-selinux --disabled
 reboot
 
 ignoredisk --only-use=sda
