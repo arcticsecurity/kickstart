@@ -19,6 +19,3 @@
     * Press Enter to boot
 1. Enter *8* and set the root password
 1. Enter *b* to begin the installation
-
-
-https://git.io/JzzMc
