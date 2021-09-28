@@ -15,7 +15,7 @@
 1. Boot using the ISO. For instruction on making USB media, see
    https://access.redhat.com/documentation/en-us/red_hat_enterprise_linux/8/html/performing_a_standard_rhel_installation/assembly_creating-a-bootable-installation-medium_installing-rhel
 1. Select *Install CentOS 8* and press Tab
-    * Append the following to the boot options (short URL for [centos-8-base.ks](https://raw.githubusercontent.com/arcticsecurity/kickstart/master/centos-8-base.ks)): `ks=https://git.io/JzzMc`
+    * Append the following to the boot options (short URL for [centos-8-base.ks](https://raw.githubusercontent.com/arcticsecurity/kickstart/master/centos-8-base.ks)): `inst.ks=https://git.io/JzzMc`
     * Press Enter to boot
 1. Enter *8* and set the root password
 1. Enter *b* to begin the installation
