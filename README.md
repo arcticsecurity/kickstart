@@ -17,5 +17,6 @@
 1. Select *Install CentOS 8* and press Tab
     * Append the following to the boot options (short URL for [centos-8-base.ks](https://raw.githubusercontent.com/arcticsecurity/kickstart/master/centos-8-base.ks)): `inst.ks=https://git.io/JzzMc`
     * Press Enter to boot
-1. Enter *8* and set the root password
-1. Enter *b* to begin the installation
+1. Click *Root Password*
+1. Set root password and click *Done*
+1. Click *Begin Installation*

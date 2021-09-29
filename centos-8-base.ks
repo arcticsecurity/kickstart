@@ -1,7 +1,6 @@
-text
-install
 eula --agreed
 lang en_US.UTF-8
+keyboard us
 timezone --utc UTC
 reboot
 
